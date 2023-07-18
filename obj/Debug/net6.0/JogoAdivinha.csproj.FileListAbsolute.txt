@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\bin\Debug\net6.0\JogoAdivinha.exe
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\bin\Debug\net6.0\JogoAdivinha.deps.json
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\bin\Debug\net6.0\JogoAdivinha.runtimeconfig.json
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\bin\Debug\net6.0\JogoAdivinha.dll
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\bin\Debug\net6.0\JogoAdivinha.pdb
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.AssemblyInfo.cs
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.dll
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\refint\JogoAdivinha.dll
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.pdb
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\JogoAdivinha.genruntimeconfig.cache
+C:\Users\maria\source\repos\JogoAdivinha\JogoAdivinha\obj\Debug\net6.0\ref\JogoAdivinha.dll
